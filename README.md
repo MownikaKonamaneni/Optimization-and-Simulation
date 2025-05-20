@@ -3,8 +3,11 @@ Optimization and Simulation project - Simul8
 
 ## Project Structure
 
+
 📁 Optimization and Simulation
-│
+
+```
+
 ├── 📊 Simulation Project/
 │   ├── FinalProject_Phase1.s8
 |   ├── FinalProject_Phase2.s8
@@ -19,3 +22,5 @@ Optimization and Simulation project - Simul8
 │   └── Project Report.docx
 │
 └── README.md
+
+```
